@@ -17,9 +17,9 @@ Main project files:
 A user (socket client) connects to the socket server using TCP AF_INET socket. The user enters which method to use (1, 2 or 3), and the necessary data. X and Y are vectors, and r is a real (float) number.  
 The RPC client receives this data and sends it to the RPC server, which implements the above methods.  
 
-*This project was made during my Distributed Systems course in University.*
+>*This project was made during my Distributed Systems course in University.*
 
-**Tested using WSL 2.0, Windows 11.**
+>**Tested using WSL 2.0, Windows 11.**
 
 ## How to run
 
